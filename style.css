@@ -165,7 +165,7 @@ nav li a:hover{
     color: var(--link-hover-color);
     font-weight: var(--link-hover-weight);
 }
-nav li a:visited { /* req 20 -- this doesn't work?? change it later */
+nav li a:visited { 
     color: var(--link-visited-color);
     font-weight: var(--link-hover-weight);
 }   
